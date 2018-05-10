@@ -39,4 +39,7 @@ Remove with pip::
 Run tests
 =========
 
-Use pytest.
+Use setup.py as in::
+
+  python3 setup.py test
+
